@@ -11,8 +11,9 @@ The application analyzes a student's academic performance, skills, internships, 
 Add your deployed Streamlit/Hugging Face URL here.
 
 Example:
+Streamlit Deployment : https://placement-prediction-system-o8dkf8ahnvh4bi8xuflkwa.streamlit.app/
 
-https://huggingface.co/spaces/Thiru-04/Placement-Prediction-System
+Huggingface Deployment : https://huggingface.co/spaces/Thiru-04/Placement-Prediction-System
 
 ---
 
