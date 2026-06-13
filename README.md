@@ -12,11 +12,7 @@ Add your deployed Streamlit/Hugging Face URL here.
 
 Example:
 
-https://your-app-name.streamlit.app
-
-or
-
-https://your-username-placement-prediction.hf.space
+https://huggingface.co/spaces/Thiru-04/Placement-Prediction-System
 
 ---
 
